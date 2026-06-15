@@ -6,7 +6,6 @@ A combined QA project for nopCommerce that includes both manual testing artifact
 - Manual test planning and detailed test cases
 - Bug reporting and Jira evidence for issues found
 - Cypress automation for auth, search, product, cart, and network flows
-- Network request validation using `cy.intercept()`
 
 ## Manual testing assets
 - `manual-testing/test-cases.xlsx` — detailed spreadsheet of test cases
