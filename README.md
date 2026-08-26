@@ -1,4 +1,4 @@
-﻿# E-Commerce QA Automation + Manual Testing
+﻿# E-Commerce QA Manual Testing
 
 A combined QA project for nopCommerce that includes both manual testing artifacts and Cypress automation.
 
