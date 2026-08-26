@@ -19,7 +19,7 @@ Testing focuses on the customer journey and the validation rules that protect or
 
 | Path | Description |
 | --- | --- |
-| [`manual-testing/test-cases.xlsx`](manual-testing/test-cases.xlsx) | Detailed manual test-case workbook |
+| [`manual-testing/test-cases.xlsx`](manual-testing/test-cases.xlsx) | Detailed 56+ manual test-case workbook |
 | [`manual-testing/bug-reports/`](manual-testing/bug-reports/) | 13 Markdown defect reports, `BUG-001` through `BUG-013` |
 | [`manual-testing/jira-screenshots/`](manual-testing/jira-screenshots/) | Jira backlog, sprint board, and bug-detail evidence |
 
